@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.421
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blakjack", "Blakjack\Blakjack.csproj", "{4AF7517F-7A7B-401A-BCD7-C53097EE9057}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blackjack", "Blakjack\Blackjack.csproj", "{4AF7517F-7A7B-401A-BCD7-C53097EE9057}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
